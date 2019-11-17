@@ -10,3 +10,5 @@
 8. Mache noch einen commit.
 9. Versuche branch2 in master zu mergen. Was gibt die Fehlermeldung aus?
 10. Bereinige den Merge Conflict in Visual Studio Code und führe den merge aus. 
+
+**Bonus:** https://learngitbranching.js.org/
